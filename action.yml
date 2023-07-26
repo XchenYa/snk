@@ -8,7 +8,7 @@ runs:
 
 inputs:
   github_user_name:
-    description: "github user name"
+    description: "Xchenya"
     required: true
   gif_out_path:
     description: "path of the generated gif file. If left empty, the gif file will not be generated."
